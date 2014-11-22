@@ -46,16 +46,6 @@ describe( 'sort-insertion-asc', function tests() {
 		}
 	});
 
-	it( 'should throw an error if provided an array of < 2 elements', function test() {
-		var data = [ 3 ];
-
-		function foo(){
-			insert( data );
-		}
-
-		expect( foo ).to.throw( Error );
-
-	});
 
 	it( 'should sort the array into ascending order', function test() {
 		var data, expected;
