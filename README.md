@@ -1,7 +1,7 @@
 sort-insertion-asc
 ===============
 
-[![Build Status][travis-image]][travis-url] [![Coverage Status](https://coveralls.io/repos/RebekahJ/sort-insertion-asc/badge.png)](https://coveralls.io/r/RebekahJ/sort-insertion-asc)
+[![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url]
 
 
 ### insert( arr )
