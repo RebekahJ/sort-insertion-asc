@@ -73,3 +73,5 @@ Copyright &copy; 2014. Rebekah Smith.
 [travis-image]: http://img.shields.io/travis/RebekahJ/sort-insertion-asc/master.svg
 [travis-url]: https://travis-ci.org/RebekahJ/sort-insertion-asc
 
+[coveralls-image]: https://img.shields.io/coveralls/RebekahJ/sort-insertion-asc/master.svg
+[coveralls-url]: https://coveralls.io/r/RebekahJ/sort-insertion-asc?branch=master
