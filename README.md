@@ -31,11 +31,11 @@ For an unsorted array of size n, the time to sort the array using insertion sort
 
 | *n*	        | *Time (ms)*   |
 | --------------| :------------:|
-| 5             |               |
-| 50            |               |
-| 500           |               |
-| 5000          |               |
-| 50000         |               |
+| 5             |      9.5      |
+| 50            |     10.25     |
+| 500           |    12.08      |
+| 5000          |    35.25      |
+| 50000         |     2274      |
 
 ## Tests
 
